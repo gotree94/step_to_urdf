@@ -5,6 +5,9 @@
 
 https://github.com/Democratizing-Dexterous/URDFly
 
+
+참고
+   * https://www.youtube.com/@%EB%92%B7%EB%B0%A9%EB%8A%99%EC%9D%80%EC%9D%B4-b6w/videos
 ---
 
 ## 목차
