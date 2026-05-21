@@ -1,4 +1,4 @@
-# RB10-1300E (현대로보틱스 협동로봇) STEP → URDF 변환 가이드
+# RB10-1300E (Rainbow Robotics 협동로봇) STEP → URDF 변환 가이드
 
 > 최종 업데이트: 2026-05-21  
 > 작업 위치: `C:\Users\user\Desktop\URDFly`
