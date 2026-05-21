@@ -8,6 +8,9 @@ https://github.com/Democratizing-Dexterous/URDFly
 
 참고
    * https://www.youtube.com/@%EB%92%B7%EB%B0%A9%EB%8A%99%EC%9D%80%EC%9D%B4-b6w/videos
+   * https://www.youtube.com/watch?v=H6YPkXmkdPg&pp=ygUcc3RlcCBmaWxlIHRvIHVyZGYgY29udmVyc2lvbg%3D%3D
+   * https://www.youtube.com/watch?v=p9g-5OLhynA&list=PLeEzO_sX5H6TBD6EMGgV-qdhzxPY19m12
+   * https://www.youtube.com/watch?v=rDsY30w3CwA&pp=ygUcc3RlcCBmaWxlIHRvIHVyZGYgY29udmVyc2lvbg%3D%3D
 ---
 
 ## 목차
