@@ -3,6 +3,8 @@
 > 최종 업데이트: 2026-05-21  
 > 작업 위치: `C:\Users\user\Desktop\URDFly`
 
+https://github.com/Democratizing-Dexterous/URDFly
+
 ---
 
 ## 목차
